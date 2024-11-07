@@ -10,6 +10,10 @@ Quickly create complex folder structures in your VS Code projects with ease! Thi
 - 📊 Create a report of the generated structure
 - 🚀 Works with your current workspace or any selected folder
 
+## 📝 Demo
+
+![Folder Structure Generator Demo](./images/gif1.gif)
+
 ## 📥 Installation
 
 1. Open VS Code
